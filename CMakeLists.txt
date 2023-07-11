@@ -11,4 +11,4 @@ add_executable(Grind75
         TwoSum.cpp
         ValidAnagram.cpp
         ValidPalindrome.cpp
-        ValidParentheses.cpp)
+        ValidParentheses.cpp EvalRPN.cpp ImplementTrie.cpp)
