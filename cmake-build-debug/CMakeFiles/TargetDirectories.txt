@@ -1,0 +1,3 @@
+/Users/kailashgautham/GitHub/Grind75/cmake-build-debug/CMakeFiles/Grind75.dir
+/Users/kailashgautham/GitHub/Grind75/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kailashgautham/GitHub/Grind75/cmake-build-debug/CMakeFiles/rebuild_cache.dir
